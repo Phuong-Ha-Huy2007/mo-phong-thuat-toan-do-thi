@@ -1,0 +1,6 @@
+{
+  "name": "Graph Algorithm Simulator – Mô phỏng thuật toán đồ thị",
+  "description": "Ứng dụng mô phỏng trực quan tương tác 5 thuật toán đồ thị kinh điển (Euler, Hamilton, Kruskal, Prim, Dijkstra) phục vụ môn Toán rời rạc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
